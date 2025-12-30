@@ -4,5 +4,4 @@
 
 <p align="center">
   <img src="https://grs.123165.xyz/api?username=lby123165&show_icons=true&theme=radical" width="49.5%"/>
-  <img src="https://grs.123165.xyz/api/top-langs?username=lby123165&layout=compact&langs_count=8&theme=radical" width="30%"/>
 </p>
